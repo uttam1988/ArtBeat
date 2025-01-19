@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "artbeatdb-2f566",
+    "staging": "artbeatdb-2f566"
+  },
+  "targets": {},
+  "etags": {}
+}
